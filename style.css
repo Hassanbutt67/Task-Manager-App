@@ -193,10 +193,6 @@ body {
     box-shadow: 0 8px 20px rgba(74, 108, 247, 0.3);
 }
 
-#addTaskBtn:active {
-    transform: translateY(0);
-}
-
 /* ===== FILTER SECTION ===== */
 .filter-section {
     display: flex;
