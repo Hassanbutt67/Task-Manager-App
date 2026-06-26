@@ -289,3 +289,8 @@ document.addEventListener('keydown', (e) => {
 
 // ===== START APP =====
 document.addEventListener('DOMContentLoaded', init);
+
+console.log('✅ Task Manager loaded successfully!');
+console.log('📧 Email: butthaan971@gmail.com');
+console.log('🐙 GitHub: https://github.com/Hassanbutt67');
+console.log('⌨️ Shortcuts: Ctrl+A (Add Task), Escape (Clear Input)');
